@@ -12,7 +12,7 @@ Click `Clone or download` and `Download ZIP` to get this repo.
 
 ## Install the packages
 1. Open two terminal
-2. Go to `frontend` and `backend` folder each terminal then do:  
+2. Go to `frontend` and `backend` folder on each terminal then do:  
 ```console
 $ npm install
 ```
